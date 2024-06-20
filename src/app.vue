@@ -1,0 +1,9 @@
+<template>
+  <NuxtLayout>
+    <v-app>
+      <v-btn>
+        asdasd
+      </v-btn>
+    </v-app>
+  </NuxtLayout>
+</template>
